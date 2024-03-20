@@ -1,0 +1,12 @@
+ru\nonoka\dao\DaoEmployees.class
+ru\nonoka\mapper\Mapper.class
+ru\nonoka\dto\EmployeeHandbookView.class
+ru\nonoka\dao\DaoEmployeesImpl.class
+ru\nonoka\datasource\ConnectionFactory.class
+ru\nonoka\entity\EmployeeHandbook.class
+ru\nonoka\dto\EmployeeHandbookDto.class
+ru\nonoka\Main.class
+ru\nonoka\Util\GeneratorEmployee.class
+ru\nonoka\entity\Gender.class
+ru\nonoka\mapper\EmployeeHandbookDtoMapper.class
+ru\nonoka\service\EmployeesService.class
